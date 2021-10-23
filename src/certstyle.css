@@ -1,0 +1,47 @@
+.cert {
+  height: 85vh;
+  background: url("cert.png") no-repeat;
+  background-size: cover;
+  margin-left: 150px;
+}
+
+.pc {
+  width: 200vh;
+  background: url("bgg3.jpg") no-repeat;
+  background-size: cover;
+}
+#Name {
+  font-size: 30px;
+  position: absolute;
+  padding-top: 325px;
+  padding-left: 260px;
+  font-family: "Times New Roman", Times, serif;
+}
+
+#Doses {
+  font-size: 30px;
+  position: absolute;
+  padding-top: 387px;
+  padding-left: 400px;
+  font-family: "Times New Roman", Times, serif;
+}
+
+#txh {
+  font-size: 20px;
+  position: absolute;
+  padding-top: 515px;
+  padding-left: 420px;
+  font-family: "Times New Roman", Times, serif;
+}
+
+#Vaccine {
+  font-size: 30px;
+  position: absolute;
+  padding-top: 445px;
+  padding-left: 290px;
+  font-family: "Times New Roman", Times, serif;
+}
+
+.btn {
+  margin-top: 10px;
+}
